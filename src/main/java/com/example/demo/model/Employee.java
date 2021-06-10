@@ -7,4 +7,6 @@ public class Employee {
 	private String employeeId;
 	// this is employee name
 	private String employeeName;
+	
+	private String deptId;
 }
