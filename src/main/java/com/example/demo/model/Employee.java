@@ -7,6 +7,6 @@ public class Employee {
 	private String employeeId;
 	// this is employee name
 	private String employeeName;
-	
+	// added dept
 	private String deptId;
 }
