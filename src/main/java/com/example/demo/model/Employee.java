@@ -5,5 +5,6 @@ public class Employee {
 
 	// this is empId
 	private String employeeId;
-	private String employeeName; 
+	// this is employee name
+	private String employeeName;
 }
